@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BallRunner
+comment0.text=\r\n\ @Veronica\ Pratt\r\n\ @914\r\n
+comment1.params=
+comment1.target=void\ ballRunner()
+comment2.params=ballWorld\ startPoint\ ballBot
+comment2.target=void\ activity1(BallWorld,\ TGPoint,\ BallBot)
+comment3.params=ballBotArray
+comment3.target=int\ findFreeBallBotIndex(BallBot[])
+comment4.params=point1\ point2
+comment4.target=double\ distanceBetweenPoints(TGPoint,\ TGPoint)
+comment5.params=ballBotArray\ entrancePoint
+comment5.target=boolean\ entranceClear(BallBot[],\ TGPoint)
+comment6.params=ballBot\ ballBotArray
+comment6.target=BallBot\ ballBotToBounceOff(BallBot,\ BallBot[])
+comment7.params=
+comment7.target=void\ newRunner()
+numComments=8
